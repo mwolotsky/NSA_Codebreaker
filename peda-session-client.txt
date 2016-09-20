@@ -1,0 +1,9 @@
+break *0xf762732e
+break *0x8049c21
+break *0x8049c3b
+break *0x8049c4d
+break *0x8049c5f
+break *0x8049c85
+break *0x8049c9a
+break *0x8049cb2
+
